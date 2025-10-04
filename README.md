@@ -15,7 +15,7 @@ A aplicação possui **dois endpoints principais**:
 - **Método:** GET
 - **Descrição:** Retorna uma mensagem de boas-vindas.
 
-### `/personalized-message/{name}`
+### `/personalized-message`
 - **Método:** GET
 - **Descrição:** Retorna uma mensagem personalizada com o nome.
 
